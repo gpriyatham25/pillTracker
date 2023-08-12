@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pillTracker",
+    "slug": "pillTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pillTracker"
+}
